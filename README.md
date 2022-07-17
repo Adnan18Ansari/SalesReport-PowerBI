@@ -1,4 +1,13 @@
 # Sales Insights Data Analysis
+
+A computer hardware company is facing certain challenges in growing competition. Sales director decides to invest in data analysis of sales and market to overcome the growing challenges . He would like to build power BI dashboard that can give him real time sales insights.
+
+## Steps involved :- 
+
+* Data Analysis using SQL
+* Data cleaning and ETL (Extract, transform , load) in Power Query Editor
+* Building Dashboard
+
 Published report on Power BI web
 
 https://app.powerbi.com/links/dd3_7vgNTC?ctid=af438827-6df2-4a9e-9e7b-abdad1f114c9&pbi_source=linkShare
